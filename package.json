@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "name": "sda",
+  "version": "1.0.0",
+  "description": "dsa",
+  "main": "js.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node js.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justman-1/webdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justman-1/webdev/issues"
+  },
+  "homepage": "https://github.com/justman-1/webdev#readme"
 }
